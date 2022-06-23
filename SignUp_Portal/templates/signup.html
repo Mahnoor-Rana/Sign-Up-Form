@@ -13,7 +13,7 @@
 <body>
     <div class = "text-center line form-divider">Sign Up Portal</div>
     <br>
-        <form method = 'POST' class ="login-form spacer" id = "signup-form">
+       <div> <form method = 'POST' class ="login-form spacer" id = "signup-form">
             {% csrf_token %}
             <div class = "input-group">
                 <img class="icon input-icon" src="{% static 'imgs/icons/envelope.png' %}" alt="">
@@ -31,6 +31,6 @@
             
             
         </form>
-    
+    </div>
 </body>
 </html>
