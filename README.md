@@ -2,7 +2,7 @@
 ![Sign up Form](Image.png)
 <hr>
 Sign up is an action to register yourself for a new account. Different web portals might use different terms for returning users but they all use “sign up” for the process of first time registration. It simply means to create a new account – be it a portal, application, or newsletter.
-<br>
+<br><br>
 I created a <strong>SIGN UP PORTAL</strong> manually through DJANGO (framework of Python).
 
 
